@@ -33,4 +33,3 @@ public class Prog_6 {
         return false;
     }
 }
-
