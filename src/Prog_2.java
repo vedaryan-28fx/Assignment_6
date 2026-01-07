@@ -1,10 +1,8 @@
-import javax.xml.transform.Source;
-
 public class Prog_2 {
     public static void main(String[] args) {
 
         int A_nos = 0;
-        System.out.println("Armstrong number form 100 to 10000: ");
+        System.out.println("Armstrong number from 100 to 10000: ");
         for (int i = 100; i <=10000 ; i++) {
             if (isArmstrong(i)) {
                 System.out.println(i);
